@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [HOStudio](https://hostudio123.github.io/)
 
 ## My friend
-[WowStarWorld](https://github.com/ WowStarWorld)
+[WowStarWorld](https://github.com/WowStarWorld)
+
 [Katorly](https://github.com/katorly)
 
 ## Thanks
