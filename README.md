@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 [Katorly](https://github.com/katorly)
 
+[Lone-Air](https://github.com/Lone-Air)
+
 ## Thanks
 Thanks [Katorly](https://github.com/katorly) for his help and support
