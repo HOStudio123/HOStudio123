@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 ## This is my website
 [HOStudio](https://hostudio123.github.io/)
+
+## Thanks
+Thanks [Katorly](https://github.com/katorly) for contributing to my site
+![Katorly](https://avatars.githubusercontent.com/u/70022443?v=4)
