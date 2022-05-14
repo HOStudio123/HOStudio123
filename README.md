@@ -1,9 +1,9 @@
-# HOStudio
+# HOStudio123
 ![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=WowStarWorld&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&theme=aura)
 
-**HOStudio123/HOStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HOStudio123/HOStudio123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
