@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [HOStudio](https://hostudio123.github.io/)
 
 ## Thanks
-Thanks [Katorly](https://github.com/katorly) for your help and support
+Thanks [Katorly](https://github.com/katorly) for his help and support
