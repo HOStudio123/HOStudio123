@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 ## This is my website
 [HOStudio](https://hostudio123.github.io/)
 
+## My friend
+[WowStarWorld](https://github.com/ WowStarWorld)
+[Katorly](https://github.com/katorly)
+
 ## Thanks
 Thanks [Katorly](https://github.com/katorly) for his help and support
