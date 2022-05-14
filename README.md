@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [HOPYBOX](https://github.com/HOStudio123/HOPYBOX)
 
 ## This is my website
-![HOStudio](https://hostudio123.github.io/)
+[HOStudio](https://hostudio123.github.io/)
