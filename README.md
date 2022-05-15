@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am friendly,but I don't allow others to insult my project.
 
-<p align="center">
-<a href="https://github.com/HOStudio123">
-<img width="48%" src="https://github-readme-stats-HOStudio123.vercel.app/api?username=HOStudio123&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-</a>
 <a href="https://github.com/HOStudio123">
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&theme=vue&date_format=%5BY.%5Dn.j&dates=000000">
 </a><br><br>
 <!-- Top Languages: <a href="https://github.com/HOStudio123"><img width="48%" src="https://github-readme-stats-HOStudio123.vercel.app/api/top-langs/?username=HOStudio123&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a><br><br> -->
-<a href="https://github.com/HOStudio123"><img width="94%" src="https://ghchart.rshah.org/409ba5/HOStudio123"></a></p>
+<a href="https://github.com/HOStudio123"><img width="94%" src="https://ghchart.rshah.org/409ba5/HOStudio123"></a>
 
 ## Welcome to point out mistakes in my project !
 [HOPYBOX](https://github.com/HOStudio123/HOPYBOX)
