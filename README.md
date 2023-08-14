@@ -1,4 +1,4 @@
-# Self-introduction
+# 🌎Self-introduction
 ![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&show_icons=true&theme=aura)
@@ -10,10 +10,10 @@
 ## 📫 How to reach me
 hostudio.hopybox@foxmail.com
 
-## This is My website
+## 🌐My website
 [HOStudio](https://hostudio123.github.io/)
 
-## My best friend
+## 👥My best friends
 [WowStarWorld](https://github.com/WowStarWorld)
 
 [Katorly](https://github.com/katorly)
@@ -22,5 +22,5 @@ hostudio.hopybox@foxmail.com
 
 [2116320456](https://github.com/2116320456)
 
-## Thanks
+## 🌹Thanks
 Thanks [Katorly](https://github.com/katorly) for his help and support my website.
