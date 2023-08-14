@@ -4,6 +4,8 @@
 
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&theme=vue&date_format=%5BY.%5Dn.j&dates=000000">
 
+![66](http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&theme=vue&date_format=%5BY.%5Dn.j&dates=000000)
+
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on …
 - 🌱 I’m currently learning css and javascript.
