@@ -1,9 +1,8 @@
-# HOStudio123
 ![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&theme=aura)
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 - 🔭 I’m currently working on …
 - 🌱 I’m currently learning css and javascript.
 - 👯 I’m looking to collaborate on ...
