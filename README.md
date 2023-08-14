@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&theme=aura)
 
-![HOStudio123 github stats](http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&theme=vue&date_format=%5BY.%5Dn.j&dates=000000)
+![HOStudio123 github achievement](http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&theme=vue&date_format=%5BY.%5Dn.j&dates=000000)
 
 ## Here are some ideas to get you started:
 - 🔭 I’m currently working on …
