@@ -1,5 +1,5 @@
 ### 🌎Self-introduction
-!(https://raw.githubusercontent.com/HOStudio123/HOStudio123/main/github-metrics.svg)
+!(https://raw.githubusercontent.com/HOStudio123/HOStudio123/main/github-metrics)
 
 ![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&show_icons=true&theme=aura)
 
