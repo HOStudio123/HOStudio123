@@ -1,4 +1,6 @@
 ### 🌎Self-introduction
+!(https://raw.githubusercontent.com/HOStudio123/HOStudio123/main/github-metrics.svg)
+
 ![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&show_icons=true&theme=aura)
