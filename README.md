@@ -1,5 +1,5 @@
 ### 🌎Self-introduction
-![HOStudio123 github stats]([https://github-readme-stats.vercel.app/api?username=HOStudio123&show_icons=true&theme=aura](https://github-readme-stats-katorly.vercel.app/api?username=HOStudio123&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c))
+![HOStudio123 github stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&show_icons=true&theme=aura)
 
