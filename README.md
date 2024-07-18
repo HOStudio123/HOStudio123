@@ -1,4 +1,5 @@
 ### 🌎 Github Stats
+![Profile Views](https://komarev.com/ghpvc/?username=chun-awa&style=for-the-badge
 
 ![Contribution](https://ghchart.rshah.org/409ba5/HOStudio123)
 
