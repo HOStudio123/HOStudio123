@@ -1,4 +1,5 @@
 ### 🌎 Github Stats
+![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HOStudio123&theme=default)
 ![Profile Views](https://komarev.com/ghpvc/?username=HOStudio123&style=for-the-badge)  
 ![Contribution](https://ghchart.rshah.org/409ba5/HOStudio123)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=HOStudio123&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)  
