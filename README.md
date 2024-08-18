@@ -12,9 +12,11 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+**Major Development Languages:** `Python` **&&** `C++` **&&** `Html`
+
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=HOStudio123&layout=donut)
 
-### 📫 Contect
+### 📫 Contact
 hostudio.hopybox@foxmail.com
 
 ### 🌐 Website
