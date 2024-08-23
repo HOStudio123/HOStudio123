@@ -4,7 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HOStudio123&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_c)
 
-![](http://github-readme-streak-stats.herokuapp.com?user=HOStudio123&hide_border=)
+![](http://github-readme-streak-stats.herokuapp.com?user=HOStudio123)
 
 ### 🎨 Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
