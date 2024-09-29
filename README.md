@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=HOStudio123&style=for-the-badge)
+![View](https://komarev.com/ghpvc/?username=HOStudio123&style=for-the-badge)
 ### 🌎 Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HOStudio123&theme=default)
 
